@@ -205,7 +205,7 @@ This project is licensed under the [MIT License](LICENSE).
 AI & Machine Learning Engineer
 
 - 📧 ehab44221@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/ehab-ashraf-bba739176)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ehab-ashraf-bba739176/)
 - 🐙 [GitHub](https://github.com/EhabAshraf32)
 - 📊 [Kaggle](https://kaggle.com/ehabashraf)
 
