@@ -1,0 +1,26 @@
+# Environment variables / secrets
+.env
+app.env
+*.env
+
+# Vector store / generated data (regenerable from source docs)
+chroma_ai_kb/
+chroma_db/
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
